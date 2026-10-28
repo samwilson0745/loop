@@ -1,0 +1,9 @@
+app.loop.tracking.usage.loop-android-usage-pngs-0 C:\work\loop-tracking\modules\android-usage\android\build\generated\res\pngs\debug
+app.loop.tracking.usage.loop-android-usage-updated_navigation_xml-1 C:\work\loop-tracking\modules\android-usage\android\build\generated\updated_navigation_xml\debug
+app.loop.tracking.usage.loop-android-usage-mergeDebugResources-2 C:\work\loop-tracking\modules\android-usage\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+app.loop.tracking.usage.loop-android-usage-mergeDebugResources-3 C:\work\loop-tracking\modules\android-usage\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+app.loop.tracking.usage.loop-android-usage-debug-4 C:\work\loop-tracking\modules\android-usage\android\build\intermediates\merged_res\debug\mergeDebugResources
+app.loop.tracking.usage.loop-android-usage-debug-5 C:\work\loop-tracking\modules\android-usage\android\build\intermediates\packaged_res\debug\packageDebugResources
+app.loop.tracking.usage.loop-android-usage-debug-6 C:\work\loop-tracking\modules\android-usage\android\src\debug\res
+app.loop.tracking.usage.loop-android-usage-main-7 C:\work\loop-tracking\modules\android-usage\android\src\main\res
+gradleHome-0 C:\Users\soham\.gradle

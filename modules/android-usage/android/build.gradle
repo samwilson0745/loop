@@ -1,0 +1,8 @@
+group = 'app.loop.tracking'
+version = '1.0.0'
+apply plugin: 'com.android.library'
+apply plugin: 'expo-module-gradle-plugin'
+
+android {
+  namespace 'app.loop.tracking.usage'
+}

@@ -1,0 +1,19 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="app.loop.tracking.usage" >
+5
+6    <uses-sdk android:minSdkVersion="24" />
+6-->INJECTED
+6-->INJECTED
+7
+8    <uses-permission
+8-->C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:70-226
+9        xmlns:tools="http://schemas.android.com/tools"
+9-->C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:177-223
+10        android:name="android.permission.PACKAGE_USAGE_STATS"
+10-->C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:87-140
+11        tools:ignore="ProtectedPermissions" />
+11-->C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:141-176
+12
+13</manifest>

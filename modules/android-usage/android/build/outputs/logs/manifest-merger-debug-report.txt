@@ -1,0 +1,24 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:1-237
+INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:1-237
+	package
+		INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.PACKAGE_USAGE_STATS
+ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:70-226
+	xmlns:tools
+		ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:177-223
+	tools:ignore
+		ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:141-176
+	android:name
+		ADDED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml:1:87-140
+uses-sdk
+INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml
+INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\work\loop-tracking\modules\android-usage\android\src\main\AndroidManifest.xml
